@@ -1,5 +1,3 @@
-**Shipping and Handling calculator for instruments, consumables and reagents created in 2012**
-
 ## Situation
 The operation director was tasked to reduce the current operation cost as it started to erode margins. She ran some Kaizen to review processes and streamline them to make more efficient and cost effective but she wanted to recoup some of the shipping cost we were fully absorb on behalf of the customer.
 
